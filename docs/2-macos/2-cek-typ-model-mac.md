@@ -9,5 +9,5 @@ Untuk melihat "Model No" brand Apple Macbook Air/Pro.
 Umumnya berada di bagian bawah Mac.
 
 
-![](/assets/images/typ-model-mac.jpg)
+![]({{ site.baseurl }}/assets/images/typ-model-mac.jpg)
 

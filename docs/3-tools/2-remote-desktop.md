@@ -25,7 +25,7 @@ RustDesk dapat berjalan di berbagai sistem operasi, termasuk:
 [<i class="bi bi-apple"></i> RustDesk v1.4.4](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.dmg){: .btn }
 </span>
 
-![](/assets/images/rustdesk.png)
+![]({{ site.baseurl }}/assets/images/rustdesk.png)
 
 *sources: [RustDesk](https://github.com/rustdesk/rustdesk)*
 {: .fs-2 }

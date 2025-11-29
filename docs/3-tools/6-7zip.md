@@ -13,7 +13,7 @@ layout: default
 [<i class="bi bi-microsoft"></i> 7zip v25.01 (64 bit)](https://www.7-zip.org/a/7z2501-x64.exe){: .btn }
 </span>
 
-![](/assets/images/7zip.png)
+![]({{ site.baseurl }}/assets/images/7zip.png)
 
 *Source: [7zip](https://www.7-zip.org/)*
 {: .fs-2 }

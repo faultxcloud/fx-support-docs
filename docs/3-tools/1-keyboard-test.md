@@ -13,4 +13,4 @@ Ini adalah software (portable) untuk test atau cek keyboard.
 [Keyboard Test](/assets/tools/Keyboard_Test_Portable.exe.zip){: .btn }
 </span>
 
-![](/assets/images/kb-test.jpeg)
+![]({{ site.baseurl }}/assets/images/kb-test.jpeg)

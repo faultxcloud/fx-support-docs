@@ -10,7 +10,7 @@ layout: default
 Ini adalah metode paling universal dan tercepat yang bekerja di hampir semua versi Windows.
 
 - Tekan Tombol Pintas: Tekan tombol **Logo Windows win** <i class="bi bi-microsoft"></i> + **R** secara bersamaan. (Ini akan membuka kotak dialog Run / Jalankan).
-![](/assets/images/win-ver-kb.png)
+![]{{ site.baseurl }}(/assets/images/win-ver-kb.png)
 
 - Ketik Perintah: Ketik `winver` di kotak dialog Run.
 

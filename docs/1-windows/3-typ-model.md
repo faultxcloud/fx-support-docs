@@ -11,5 +11,5 @@ Berikut cara melihat **Type** atau **Model** dari laptop,
 Untuk melihat informasi Type atau Model Laptop dari brand *Lenovo, Asus, Acer, HP, Dell, dsb*.  
 Umumnya berada di bagian bawah Laptop.
 
-![](/assets/images/typ-model-laptop.jpg)
+![]({{ site.baseurl }}/assets/images/typ-model-laptop.jpg)
 

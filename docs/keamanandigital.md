@@ -7,7 +7,7 @@ nav_order: 2
 # <i class="bi bi-shield-check"></i> Keamanan Digital
 
 
-![](/assets/images/cybersec.jpg)
+![]({{ site.baseurl }}/assets/images/cybersec.jpg)
 
 
 ### Kenapa Penting
@@ -56,7 +56,7 @@ _Sumber:_ [_ManageEngine_](https://www.manageengine.com/id/blog/siem/tren-cybers
 # Peretasan Terbesar di Indonesia
 Kasus-kasus peretasan besar ini sering kali melibatkan kebocoran jutaan data pengguna dari platform-platform populer.
 
-![](/assets/images/hacking.jpg)
+![]({{ site.baseurl }}/assets/images/hacking.jpg)
 
 ### 1. Insiden Serangan Siber PDNS (Juni 2024)
 Berikut adalah rincian mengapa kasus PDNS dianggap sebagai salah satu yang terbesar dan paling signifikan:

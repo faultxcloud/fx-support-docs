@@ -30,7 +30,7 @@ Gratis, sumber-terbuka, antar-perangkat.
 [<i class="bi bi-globe"></i> LocalSend v1.17.0 ](https://web.localsend.org/){: .btn }
 </span>
 
-![](/assets/images/localsend.webp)
+![]({{ site.baseurl }}/assets/images/localsend.webp)
 
 *Source: [LocalSend](https://github.com/localsend/localsend)*
 {: .fs-2 }

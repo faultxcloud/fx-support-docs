@@ -13,4 +13,4 @@ Software alternatif pengganti Internet Download Manager (IDM).
 [<i class="bi bi-microsoft"></i> Free Download Manager (FDM)](https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe){: .btn }
 </span>
 
-![](/assets/images/fdm.png)
+![]({{ site.baseurl }}/assets/images/fdm.png)

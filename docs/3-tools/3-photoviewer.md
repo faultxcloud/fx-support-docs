@@ -14,4 +14,4 @@ Karena Photo Viewer ini ringan cocok untuk Laptop / PC yang Low Specs.
 [<i class="bi bi-microsoft"></i> Restore Photo Viewer](/assets/tools/Restore_Windows_Photo_Viewer_CURRENT_USER.reg.zip){: .btn }
 </span>
 
-![](/assets/images/win-photo-viewer.png)
+![]({{ site.baseurl }}/assets/images/win-photo-viewer.png)

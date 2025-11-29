@@ -7,8 +7,8 @@ layout: default
 
 # Arti Kode Pada Processor Intel
 
-![](/assets/images/kode-proc/proc1.png)
-![](/assets/images/kode-proc/proc2.png)
+![]({{ site.baseurl }}/assets/images/kode-proc/proc1.png)
+![]({{ site.baseurl }}/assets/images/kode-proc/proc2.png)
 
 | Code | Arti |
 |:---|:---|

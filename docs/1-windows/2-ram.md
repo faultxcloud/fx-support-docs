@@ -15,33 +15,33 @@ Silakan terlebih dahulu download software yang bernama CPU-Z di Laptop atau PC k
 [Download CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.17-en.exe){: .btn }
 </span>
 
-![](/assets/images/cek-ram/1.1.png)  
+![]({{ site.baseurl }}/assets/images/cek-ram/1.1.png)  
 
 Setelah selesai download CPU-Z, kamu install dengan cara klik kanan pada software CPU-Z dan pilih *"Run as administrator"* maka akan muncul popup lalu pilih **"YES"**.
-![](/assets/images/cek-ram/1.2.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/1.2.png)
 
 Berikut proses install CPU-Z *(Perhatikan kotak merah disetiap gambar dibawah ini):*
-![](/assets/images/cek-ram/2.1.png)
-![](/assets/images/cek-ram/2.2.png)
-![](/assets/images/cek-ram/2.3.png)
-![](/assets/images/cek-ram/2.4.png)
-![](/assets/images/cek-ram/2.5.png)
-![](/assets/images/cek-ram/2.6.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.1.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.2.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.3.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.4.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.5.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/2.6.png)
 
 
 Proses install CPU-Z telah selesai, saatnya kamu buka CPU-Z dengan menggunakan klik kanan dan pilih *"Run as administrator"* maka akan muncul popup dan pili **"YES"**.  
 Dan tunggu hingga proses loading selesai.
 
-![](/assets/images/cek-ram/3.1.png)
-![](/assets/images/cek-ram/3.2.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/3.1.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/3.2.png)
 
 Setelah proses deteksi selesai, maka tampilan awal akan seperti gambar berikut ini:
-![](/assets/images/cek-ram/3.3.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/3.3.png)
 
 Lalu kita akan fokus untuk melihat spesifikasi RAM pada Laptop/PC kita,
 Buka **TAB "Memory"** dan **TAB "SPD"**. 
-![](/assets/images/cek-ram/3.4.png)
-![](/assets/images/cek-ram/3.5.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/3.4.png)
+![]({{ site.baseurl }}/assets/images/cek-ram/3.5.png)
 
 **FOTO** kedua TAB **(Memory & SPD)** dengan jelas, lalu kirim foto tersebut ke: 
 
