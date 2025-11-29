@@ -11,7 +11,7 @@ layout: default
 Dari menu Apple <i class="bi bi-apple"></i> di sudut kiri atas layar, pilih About This Mac. Jendela yang muncul mungkin berbeda dengan contoh yang ditampilkan di sini, tetapi pasti ada nama macOS dan nomor versi. Jika Anda juga ingin mengetahui nomor build, klik nomor versi untuk melihatnya.  
 
 ![]({{ site.baseurl }}/assets/images/about-mac/1@2x.png)
-![]{{ site.baseurl }}(/assets/images/about-mac/2@2x.png)
+![]({{ site.baseurl }}/assets/images/about-mac/2@2x.png)
 ![]({{ site.baseurl }}/assets/images/about-mac/3@2x.png)
 
 ---
