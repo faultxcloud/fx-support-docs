@@ -14,5 +14,5 @@ Singkatnya:
 Ini solusi cepat untuk memastikan semua program yang membutuhkan library Visual C++ bisa berjalan tanpa error.
 
 <span class="fs-3">
-[<i class="bi bi-microsoft"></i> VisualCppRedist_AIO](/assets/tools/VisualCppRedist_AIO_x86_x64.exe){: .btn }
+[<i class="bi bi-microsoft"></i> VisualCppRedist_AIO](https://drive.google.com/file/d/1-aTpn1NLpqtNU3z4hLqeg15sVGrso_jK/view?usp=sharing){: .btn }
 </span>
