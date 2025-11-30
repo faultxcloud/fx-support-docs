@@ -24,6 +24,17 @@ RustDesk dapat berjalan di berbagai sistem operasi, termasuk:
 <span class="fs-3">
 [<i class="bi bi-apple"></i> RustDesk v1.4.4](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.dmg){: .btn }
 </span>
+<span class="fs-3">
+[<i class="fa-brands fa-ubuntu"></i> RustDesk v1.4.4 `.deb`](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-x86_64.deb){: .btn }
+</span>
+<span class="fs-3">
+[<i class="fa-brands fa-android"></i> RustDesk v1.4.4 `.apk`](https://github.com/rustdesk/rustdesk/releases/download/1.4.4/rustdesk-1.4.4-universal-signed.apk){: .btn }
+</span>
+<span class="fs-3">
+[<i class="fa-brands fa-globe"></i> RustDesk v1.4.4 `.apk`](https://rustdesk.com/web){: .btn }
+</span>
+
+
 
 ![]({{ site.baseurl }}/assets/images/rustdesk.png)
 
