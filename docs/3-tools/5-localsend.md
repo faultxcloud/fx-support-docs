@@ -9,7 +9,7 @@ layout: default
 Berbagi file ke perangkat sekitar.
 Gratis, sumber-terbuka, antar-perangkat. 
 
-*Syarat: Harus dalam 1 Wifi yang sama.*
+> *Syarat: Harus dalam 1 Wifi yang sama.*
 
 <span class="fs-3">
 [<i class="bi bi-microsoft"></i> LocalSend v1.17.0](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe){: .btn }
